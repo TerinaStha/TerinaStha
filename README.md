@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @TerinaStha
+- 👋 Hi, I’m TerinaStha
 - 👀 I’m interested in Art
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Singing
-- 📫 How to reach me E-mail
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 TerinaStha/TerinaStha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
